@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "checksums": {
+                "md5": "feb4d252ee63634debea654b446e830b",
+                "sha1": "a73fad5aeb5642d1b2108885010c4e7a547a1204",
+                "sha256": "c4117d0e325cde392981626edbd1484c751f0216689a171e4b7547e8800acc21"
+            },
+            "file": "RPM-GPG-KEY-redhat-release",
+            "size": 5134
+        },
+        {
+            "checksums": {
+                "md5": "3c24137e12ece142a27bbf825c256936",
+                "sha1": "a72daf8585b41529269cdffcca3a0b3d4e2f21cd",
+                "sha256": "3f8644b35db4197e7689d0a034bdef2039d92e330e6b22217abfa6b86a1fc0fa"
+            },
+            "file": "RPM-GPG-KEY-redhat-beta",
+            "size": 1669
+        },
+        {
+            "checksums": {
+                "md5": "b234ee4d69f5fce4486a80fdaf4a4263",
+                "sha1": "4cc77b90af91e615a64ae04893fdffa7939db84c",
+                "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+            },
+            "file": "GPL",
+            "size": 18092
+        },
+        {
+            "checksums": {
+                "md5": "597eec87ff5541f220b19036afdac59d",
+                "sha1": "bd6006ea5e4e03be575a2d0252b8654130dc43ed",
+                "sha256": "1d652b91107d3f2e1c57804eb0077dd45a24ab407dd6ebc0be0412380d8191ca"
+            },
+            "file": "EULA",
+            "size": 8266
+        }
+    ],
+    "header": {
+        "version": "1.0"
+    }
+}

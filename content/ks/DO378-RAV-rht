@@ -1,0 +1,8 @@
+RHT_VENUE=novello
+RHT_ENROLLMENT=0
+RHT_COURSE=do378
+RHT_TITLE="Red Hat Cloud-native Microservices Development with Quarkus"
+RHT_VMTREE="rhboq1.7/x86_64"
+RHT_CLASSROOM=rhel
+RHT_CAPACITY=200
+RHT_NETWORK=no

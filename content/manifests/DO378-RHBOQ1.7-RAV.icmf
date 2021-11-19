@@ -1,0 +1,43 @@
+---
+manifest version: 1
+curriculum:
+ name: DO378
+ release: 1.r2021-01-18
+ description: Red Hat Cloud-native Microservices Development with Quarkus
+ technology: 8.1
+ modality: [ ILT, RAV ]
+ generation: 7
+ locale: [ en_US ]
+ publish date: 2021-01-18
+ publisher: aglogows
+ artifacts:
+ - filename: foundation0-do378-8.1-1.r2020102613git4f46c0f.noarch.rpm 
+   type: content
+   content type: rpm
+   target directory: ucf/Packages
+   usage: [ classroom ]
+   checksum: 178164f81917b8e87073295a635588de
+ - filename: rhel-classroom-vda-50G-8.2-placeholder.qcow2
+   type: content
+   content type: file
+   target directory: rhboq1.7/x86_64/vms
+   final name: /var/lib/libvirt/images/DO378-classroom-vda.qcow2
+   usage: [ foundation ]
+   checksum: 178164f81917b8e87073295a635588de
+ - filename: redhat-training-slides-DO378-8.1-en-0-20201026-placeholder.noarch.rpm
+   type: content
+   content type: rpm
+   target directory: ucf/Packages
+   usage: [ classroom ]
+   checksum: 178164f81917b8e87073295a635588de
+ - filename: ClassroomSetup-DO378-8.1-1.r2020102613git4f46c0f.txt
+   type: content
+   content type: file
+   target directory: docs
+   final name: /root/ClassroomSetup-DO378-8.1-1.r2020102613git4f46c0f.txt
+   usage: [ classroom ]
+   checksum: 36c739b2223f25afdc91e0fd6b304105
+ - filename: DO378-8.1-en-0-20201026-placeholder-IG.pdf
+   type: source
+   usage: [ classroom ]
+   checksum: 178164f81917b8e87073295a635588de
